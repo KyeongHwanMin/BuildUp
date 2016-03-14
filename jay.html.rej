@@ -1,0 +1,9 @@
+diff a/jay.html b/jay.html	(rejected hunks)
+@@ -1 +0,5 @@
+-¸¶½ºÅÍ¤·¤·
+\ No newline at end of file
++<<<<<<< HEAD
++¸¶½ºÅÍ¤·¤·
++=======
++¶Ç ºê·£Æ¼
++>>>>>>> branch1
